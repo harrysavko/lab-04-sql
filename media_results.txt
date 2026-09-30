@@ -1,0 +1,8 @@
+user_id	username	email	post_id	title	published_at
+5	elena	elena@example.com	6	Elena list	2026-02-06 14:00:00
+6	farid	farid@example.com	7	Farid recap	2026-02-07 15:00:00
+7	gia	gia@example.com	8	Gia photos	2026-02-08 16:00:00
+8	hiro	hiro@example.com	9	Hiro mix	2026-02-09 17:00:00
+9	ira	ira@example.com	10	Ira recs	2026-02-10 18:00:00
+10	jules	jules@example.com	11	Jules news	2026-02-11 19:00:00
+2	bob	bob@example.com	12	Bob late take	2026-02-12 20:00:00
